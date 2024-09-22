@@ -1,12 +1,11 @@
-﻿Rank,College ,Acceptance Rate (%),Graduation Rate (%),
-1,Masachussetts Institute of Technology (MIT),4,95.6,
-2,Imperial College London,15,95,
-3,University of Oxford,17.5,95,
-4,Harvard University,3.2,97.6,
-5,University of Cambridge,21,95.3,
-6,Stanford University,3.7,95.2,
-7,ETH Zurich,27,94,
-8,National University of Singapore (NUS),7,93.5,
-9,University College London (UCL),30,94.8,
-10,California Intitute of Technology (Caltech),2.7,91.6,
-,,,,
+﻿Rank,Acceptance Rate (%),Graduation Rate (%),College 
+1,4,95.6,Masachussetts Institute of Technology (MIT)
+2,15,95,Imperial College London
+3,17.5,95,University of Oxford
+4,3.2,97.6,Harvard University
+5,21,95.3,University of Cambridge
+6,3.7,95.2,Stanford University
+7,27,94,ETH Zurich
+8,7,93.5,National University of Singapore (NUS)
+9,30,94.8,University College London (UCL)
+10,2.7,91.6,California Intitute of Technology (Caltech)
